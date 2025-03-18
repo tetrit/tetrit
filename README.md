@@ -1,5 +1,5 @@
 ![alt text](teardown.png)
-![alt text](skeleton.gif)
+![alt text](100843_1358975.gif)
 <!--
 **tetrit/tetrit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
