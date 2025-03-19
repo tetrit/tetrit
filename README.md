@@ -6,6 +6,7 @@
 <p align=center>
   <img src="https://github.com/tetrit/tetrit/blob/main/teardown.png"/>
 </p>
+
 **Blender**: *Кобольд "Дрейк"* (в разработке)
 
 <p align=center>
