@@ -4,7 +4,7 @@
 **teardown**: *домашний дракон*
 
 <p align=center>
-  <img url="teardown.png"/>
+  <img src="https://github.com/tetrit/tetrit/blob/main/teardown.png"/>
 </p>
 **Blender**: *Кобольд "Дрейк"* (в разработке)
 
